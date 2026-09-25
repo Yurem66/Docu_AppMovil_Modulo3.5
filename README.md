@@ -7,6 +7,7 @@ Este repositorio sigue el estándar internacional **Docs-as-Code**, estructurand
 ---
 
 ## Información del Proyecto
+
 * **Proyecto:** AutoElite Motors & Rentals
 * **Módulo:** Módulo 3.5 — Desarrollo en React Native
 * **Institución:** Complejo Educativo Delgado
