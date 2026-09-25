@@ -18,3 +18,24 @@ Permite validar las credenciales de los clientes en la plataforma.
   "email": "demo@correo.com",
   "password": "123"
 }
+## Endpoint 2: Consulta de Datos Principales
+Devuelve el listado de registros mostrados en la pantalla principal de la app móvil.
+
+* **Método HTTP:** `GET`
+* **Ruta:** `/api/v1/datos`
+* **Encabezados (Headers):** `Accept: application/json`
+* **Respuesta Exitosa (200 OK):**
+```json
+{
+  "status": "success",
+  "total": 21,
+  "data": [
+    {
+      "id": "st1",
+      "title": "Toyota Corolla Sedan",
+      "category": "Estándar",
+      "price": "$45/día",
+      "image": "[https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=400](https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=400)"
+    }
+  ]
+}
