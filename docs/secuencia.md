@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de Interacción
 
-![Diagrama de Secuencia](assets/diagrama_secuencia.png)
+![Diagrama de Secuencia](assets/secuencia.png)
 
 > **Nota:** La representación gráfica del diagrama se encuentra almacenada en `docs/assets/diagrama_secuencia.png`.
 
