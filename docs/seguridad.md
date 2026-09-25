@@ -35,4 +35,8 @@ La aplicación cumple estrictamente con el principio de mínimo privilegio:
 ## 4. Comunicaciones Cifradas (TLS / HTTPS)
 
 * **Transmisión Segura:** Toda comunicación entre la interfaz de la app móvil y la API REST se realiza obligatoriamente mediante el protocolo cifrado **HTTPS** empleando TLS 1.3.
+feature/seguridad-movil
 * **Protección de Datos en Tránsito:** La información de pagos simulados y datos del titular se empaquetan en cargas útiles JSON cifradas, evitando la intercepción de datos intermedios (*Man-in-the-Middle*).
+
+* **Protección de Datos en Tránsito:** La información de pagos simulados y datos del titular se empaquetan en cargas útiles JSON cifradas, evitando la intercepción de datos intermedios (*Man-in-the-Middle*).
+main
