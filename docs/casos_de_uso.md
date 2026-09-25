@@ -2,7 +2,7 @@
 
 ## 1. Representación Visual
 
-![Diagrama de Casos de Uso](assets/diagrama_casos_uso.png)
+![Diagrama de Casos de Uso](assets/casos_de_uso.png)
 
 > **Nota:** La imagen del diagrama se encuentra exportada en formato PNG dentro de la carpeta `docs/assets/diagrama_casos_uso.png`.
 
