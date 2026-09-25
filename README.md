@@ -30,5 +30,5 @@ Navega a través de los diferentes módulos de la documentación oficial:
 -  **Guías y Políticas:**
   - [Ver Manual de Usuario Móvil](docs/manual_usuario.md)
   - [Ver Políticas de Seguridad Móvil](docs/seguridad.md)
-- 📜 **Historial de Entregas:**
+- **Historial de Entregas:**
   - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
