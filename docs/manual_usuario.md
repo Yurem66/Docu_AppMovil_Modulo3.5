@@ -36,9 +36,9 @@ Una vez autenticado, accederás al panel de bienvenida principal:
 En la pantalla del catálogo podrás navegar entre 21 vehículos disponibles divididos en tres categorías:
 
 * **Pestañas de Filtrado:**
-  * 🚗 **Económica:** Modelos compactos y eficientes desde $22/día.
-  * 🚘 **Estándar:** Sedanes y Hatchbacks equilibrados desde $44/día.
-  * 🏎️ **Premium:** SUVs de lujo y vehículos ejecutivos desde $85/día.
+  * **Económica:** Modelos compactos y eficientes desde $22/día.
+  * **Estándar:** Sedanes y Hatchbacks equilibrados desde $44/día.
+  * **Premium:** SUVs de lujo y vehículos ejecutivos desde $85/día.
 * **Detalle del Vehículo:** Cada tarjeta muestra la imagen del vehículo, modelo, gama y tarifa por día. Presione el botón **"Solicitar Reserva"** sobre el auto de su preferencia.
 
 ---
@@ -52,9 +52,9 @@ En esta pantalla ingresarás los datos del titular para agendar la solicitud:
    * **Correo y Teléfono:** Verifique que sus datos de contacto estén correctos.
    * **Dirección:** Escriba la dirección de entrega/residencia.
 2. **Selección de Método de Pago:**
-   * **💳 Tarjeta de Crédito / Débito:** Ingrese el número de tarjeta (con formato de espaciado automático), fecha de vencimiento (`MM/AA`) y código CVC.
-   * **🏦 Transferencia Bancaria:** El sistema desplegará el número de cuenta de **Banco Agrícola** y las instrucciones para el depósito.
-   * **🏢 Pago Presencial:** Programe la reserva para cancelar en la sucursal del Aeropuerto.
+   * ** Tarjeta de Crédito / Débito:** Ingrese el número de tarjeta (con formato de espaciado automático), fecha de vencimiento (`MM/AA`) y código CVC.
+   * ** Transferencia Bancaria:** El sistema desplegará el número de cuenta de **Banco Agrícola** y las instrucciones para el depósito.
+   * ** Pago Presencial:** Programe la reserva para cancelar en la sucursal del Aeropuerto.
 3. Presione **"Confirmar y Procesar Alquiler"** para guardar su reserva.
 
 ---
