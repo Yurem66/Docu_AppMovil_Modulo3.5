@@ -1,5 +1,5 @@
-site_name: Portal Oficial de Documentación
-site_description: Manuales técnicos, guías de instalación y arquitectura del sistema.
+site_name: Portal Oficial de Documentacion
+site_description: Manuales tecnicos, guias de instalacion y arquitectura del sistema.
 site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado
 
 theme:
@@ -8,8 +8,9 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Manuales Técnicos:
+  - Manuales Tecnicos:
       - Arquitectura y Despliegue: arquitectura_despliegue.md
-      - Guía de Instalación: instalacion_movil.md
-      - Especificación de API: api_endpoints.md
+      - Guia de Instalacion: instalacion_movil.md
+      - Especificacion de API: api_endpoints.md
       - Seguridad y Mantenimiento: seguridad.md
+      - Guía de Usuario UX: manual_usuario_ux.md
