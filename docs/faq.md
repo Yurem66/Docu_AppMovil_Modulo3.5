@@ -1,20 +1,24 @@
-# Preguntas Frecuentes (FAQ)
+# Preguntas Frecuentes
 
-En esta sección encontrarás respuestas rápidas a las dudas más comunes sobre el uso de nuestra aplicación.
+La parte más fácil fue diseñar la interfaz y organizar las secciones de la aplicación ECOINTELIGENTE.
 
-###  ¿Cómo puedo restablecer mi contraseña si la he olvidado?
-Para recuperar tu acceso, ve a la pantalla de inicio de sesión y toca el enlace "¿Olvidaste tu contraseña?".
+1. ¿Qué parte fue la más difícil?
 
-###  ¿Cuáles son los requisitos mínimos para ejecutar esta aplicación?
-Se requiere un dispositivo con conexión a Internet y un navegador web moderno (Chrome, Edge o Safari) o un sistema Android 8.0+.
+La parte más difícil fue lograr que las funciones de la aplicación trabajaran correctamente y que fueran fáciles de utilizar.
 
----
+1. ¿Cuál es la función principal de tu proyecto?
 
-##  Videotutorial de Demostración del Sistema
+La función principal de ECOINTELIGENTE es promover el reciclaje y ayudar a los usuarios a cuidar el medio ambiente mediante una plataforma digital.
 
-Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo.
+1. ¿Qué función debería explicarse mediante un video?
 
-<video src="https://youtu.be/bc33_4UQlBU?si=RHy3Z2RWi8R-YNbB" controls width="100%">
-  Tu navegador no soporta la reproducción de video HTML5.
-  [Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
-</video>
+La función de registrar los residuos reciclados, para enseñar paso a paso cómo utilizarla correctamente.
+
+1. ¿Por qué los videotutoriales ayudan a los usuarios?
+
+Porque muestran paso a paso cómo utilizar la aplicación, facilitan el aprendizaje y ayudan a...
+
+## 🎬 Videotutorial de Demostración del Sistema
+
+video src="https://youtu.be/bc33_4UQlBU?si=RHy3Z2RWi8R-YNbB"
+Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
