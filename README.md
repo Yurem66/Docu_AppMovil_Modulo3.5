@@ -36,3 +36,10 @@ Navega a través de los diferentes módulos de la documentación oficial:
   - [Ver Políticas de Seguridad Móvil](docs/seguridad.md)
 - **Historial de Entregas:**
   - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+
+
+  ## Licencia y Gobernanza
+  
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
