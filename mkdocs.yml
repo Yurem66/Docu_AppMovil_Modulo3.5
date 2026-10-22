@@ -1,16 +1,14 @@
-site_name: Portal Oficial de Documentacion
-site_description: Manuales tecnicos, guias de instalacion y arquitectura del sistema.
+site_name: Documentación Oficial - Proyecto de Emprendedurismo
+
 site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado
-
 theme:
-  name: material
-  language: es
-
+name: material
+language: es
 nav:
-  - Inicio: index.md
-  - Manuales Tecnicos:
-      - Arquitectura y Despliegue: arquitectura_despliegue.md
-      - Guia de Instalacion: instalacion_movil.md
-      - Especificacion de API: api_endpoints.md
-      - Seguridad y Mantenimiento: seguridad.md
-      - Guía de Usuario UX: manual_usuario_ux.md
+- Inicio: index.md
+- Manual de Usuario UX: manual_usuario_ux.md
+- Centro de Ayuda & Videos:
+- Preguntas Frecuentes (FAQ): faq.md
+- Especificaciones Técnicas:
+- Arquitectura y Despliegue: arquitectura_despliegue.md
+- Especificación de API: api_endpoints.md
